@@ -1,0 +1,28 @@
+-
+  model: "testapp.Car"
+  pk: 1
+  fields:
+    number: 777
+    name: "mersedes"
+    order: null
+
+- model: "testapp.Car"
+  pk: 2
+  fields:
+    name: "tesla"
+    number: 888
+    order: null
+
+- model: "testapp.Car"
+  pk: 3
+  fields:
+    name: "bmw"
+    number: 999
+    order: null
+
+- model: "testapp.Car"
+  pk: 4
+  fields:
+    name: "audi"
+    number: 111
+    order: null
